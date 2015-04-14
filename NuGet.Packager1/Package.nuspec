@@ -2,20 +2,21 @@
 <package >
   <metadata>
     <id>NuGet.MyTest.Packager1</id>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
     <title>NuGet.MyTest.Packager1</title>
-    <authors>hhoangvan</authors>
+    <authors>junioho</authors>
     <owners></owners>
     <description>
       A long description.
     </description>
     <releaseNotes>
+      V102
     </releaseNotes>
     <summary>
       A short description.
     </summary>
     <language>en-US</language>
-    <projectUrl>https://nuget.org/packages/NuGet.MyTest.Packager1</projectUrl>
+    <projectUrl>https://github.com/hoangvanhuanvn/nuget-packager</projectUrl>
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
